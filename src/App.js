@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import ProductList from './components/ProductList';
 import Cart from './features/cart/Cart';
 import { useSelector } from 'react-redux';
