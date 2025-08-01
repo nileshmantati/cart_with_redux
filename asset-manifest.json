@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/cart_with_redux/static/js/main.3d1ae926.js",
+    "main.css": "/cart_with_redux/static/css/main.8986db81.css",
+    "main.js": "/cart_with_redux/static/js/main.968c21e0.js",
+    "static/media/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg": "/cart_with_redux/static/media/Apple-iPhone-14_FINAL_featured-image-packshot-review.e2b46a043867d74f8183.jpg",
     "index.html": "/cart_with_redux/index.html",
-    "main.3d1ae926.js.map": "/cart_with_redux/static/js/main.3d1ae926.js.map"
+    "main.8986db81.css.map": "/cart_with_redux/static/css/main.8986db81.css.map",
+    "main.968c21e0.js.map": "/cart_with_redux/static/js/main.968c21e0.js.map"
   },
   "entrypoints": [
-    "static/js/main.3d1ae926.js"
+    "static/css/main.8986db81.css",
+    "static/js/main.968c21e0.js"
   ]
 }
