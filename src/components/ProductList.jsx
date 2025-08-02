@@ -1,20 +1,21 @@
 import React from 'react';
 import ProductItem from './ProductItem';
 import { Container, Row, Col } from 'react-bootstrap';
-import '../assest/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg';
-import '../assest/images.jpg';
+import iphoneImg from '../assest/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg';
+import samsungImg from '../assest/images.jpg';
+
 
 const products = [
     {
         id: 1,
         name: "iPhone 14",
-        image: '../assest/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg',
+        image: iphoneImg,
         price: 1000
     },
     {
         id: 2,
         name: "Samsung S22",
-        image: '../assest/images.jpg',
+        image: samsungImg,
         price: 900
     },
 ];
